@@ -1,1 +1,1 @@
-# patikaStore
+ufak bir patika alıştırması
